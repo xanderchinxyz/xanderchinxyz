@@ -1,6 +1,8 @@
 ### Hi there 👋 My Name is Xander Chin
 
-I’m an engineering student passionate about building things and sharing them on the internet. I love experimenting and integrating hardware (circuits, logic gates), software (microcontrollers, web development) and design (PCB design, 3D printing) with aspects of mathematics and science in the form of projects that I can showcase.
+I’m an engineering student passionate about building things and sharing them on the internet!
+
+I love experimenting and integrating hardware (circuits, logic gates), software (microcontrollers, web development) and design (PCB design, 3D printing) with aspects of mathematics and science in the form of projects that I can showcase.
 
 Check out my website and YouTube channel to see some cool projects!
 
