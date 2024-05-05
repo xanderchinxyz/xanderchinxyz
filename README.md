@@ -1,4 +1,4 @@
-### Hi there 👋 My Name is Xander Chin
+### Hi there 👋 I'm Xander Chin
 
 I’m an engineering student passionate about building things and sharing them on the internet!
 
