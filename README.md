@@ -1,11 +1,6 @@
 ### Hello I'm Xander Chin
 
-I’m an engineering student passionate about building things and sharing them on the internet!
-
-I love experimenting and integrating hardware, software, and design with aspects of mathematics and science in the form of projects that I can showcase.
-
-Check out my YouTube channel to see some cool projects!
-
+I like building things and sharing them on the internet!
 <!--
 **xanderchinxyz/xanderchinxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
