@@ -1,6 +1,6 @@
-### Hello I'm Xander Chin
+### i am xander chin
 
-I like building things and sharing them on the internet!
+i like building things and sharing them on the internet
 <!--
 **xanderchinxyz/xanderchinxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
